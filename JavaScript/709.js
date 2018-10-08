@@ -2,7 +2,7 @@
  * @param {string} str
  * @return {string}
  */
-var toLowerCase = function(str) {
+var toLowerCase = function (str) {
   // let result = '';
   //
   // if(!str) return result;
@@ -19,6 +19,6 @@ var toLowerCase = function(str) {
   // return result;
   
   return str.split('').map((c) => {
-      return c >= 'A' && c <= 'Z' ? String.fromCharCode(c.charCodeAt() + 32) : c
+    return c >= 'A' && c <= 'Z' ? String.fromCharCode(c.charCodeAt() + 32) : c;
   }).join('');
 };

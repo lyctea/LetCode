@@ -17,7 +17,7 @@ let urls = {};
  * @param {string} longUrl
  * @return {string}
  */
-var encode = function(longUrl) {
+var encode = function (longUrl) {
   // 利用时间戳生成key， toString 方法接收一个参数，进制
   const uniqueKey = Date.now().toString(36);
   urls[uniqueKey] = longUrl;
@@ -30,7 +30,7 @@ var encode = function(longUrl) {
  * @param {string} shortUrl
  * @return {string}
  */
-var decode = function(shortUrl) {
+var decode = function (shortUrl) {
   const uniqueKey = shortUrl.split('.com/')[1];
   return urls[uniqueKey];
 };

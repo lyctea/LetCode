@@ -17,19 +17,18 @@ S 和 J 最多含有50个字母。
 J 中的字符不重复。
 */
 
-
 /**
  * @param {string} J
  * @param {string} S
  * @return {number}
  */
-var numJewelsInStones = function(J, S) {
-  if(!J || !S) return 0;
+var numJewelsInStones = function (J, S) {
+  if (!J || !S) return 0;
   
   let count = 0;
   
-  for(const c of S) {
-    if(J.includes(c)) count++;
+  for (const c of S) {
+    if (J.includes(c)) count++;
   }
   
   return count;
