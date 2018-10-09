@@ -12,3 +12,4 @@
 | 654 | [Maximum Binary Tree](https://github.com/lyctea/LetCode/blob/master/JavaScript/654.js) |  || ||
 | 461 | [Hamming Distance](https://github.com/lyctea/LetCode/blob/master/JavaScript/461.js) |  || ||
 | 657 | [Robot Return to Origin](https://github.com/lyctea/LetCode/blob/master/JavaScript/657.js) |  || ||
+| 832 | [Flipping an Image](https://github.com/lyctea/LetCode/blob/master/JavaScript/832.js) |  || ||
