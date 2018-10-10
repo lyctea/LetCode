@@ -17,3 +17,4 @@
 | 814 | [Binary Tree Pruningn](https://github.com/lyctea/LetCode/blob/master/JavaScript/814.js) |  || ||
 | 617 | [Merge Two Binary Trees](https://github.com/lyctea/LetCode/blob/master/JavaScript/617.js) |  || ||
 | 861 | [Score After Flipping Matrix](https://github.com/lyctea/LetCode/blob/master/JavaScript/861.js) |  || ||
+| 797 | [All Paths From Source to Target](https://github.com/lyctea/LetCode/blob/master/JavaScript/797.js) |  || ||
