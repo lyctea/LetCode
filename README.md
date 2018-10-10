@@ -15,3 +15,4 @@
 | 832 | [Flipping an Image](https://github.com/lyctea/LetCode/blob/master/JavaScript/832.js) |  || ||
 | 890 | [Find and Replace Pattern](https://github.com/lyctea/LetCode/blob/master/JavaScript/890.js) |  || ||
 | 814 | [Binary Tree Pruningn](https://github.com/lyctea/LetCode/blob/master/JavaScript/814.js) |  || ||
+| 617 | [Merge Two Binary Trees](https://github.com/lyctea/LetCode/blob/master/JavaScript/617.js) |  || ||
