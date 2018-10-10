@@ -14,3 +14,4 @@
 | 657 | [Robot Return to Origin](https://github.com/lyctea/LetCode/blob/master/JavaScript/657.js) |  || ||
 | 832 | [Flipping an Image](https://github.com/lyctea/LetCode/blob/master/JavaScript/832.js) |  || ||
 | 890 | [Find and Replace Pattern](https://github.com/lyctea/LetCode/blob/master/JavaScript/890.js) |  || ||
+| 814 | [Binary Tree Pruningn](https://github.com/lyctea/LetCode/blob/master/JavaScript/814.js) |  || ||
