@@ -21,3 +21,4 @@
 | 561 | [Array Partition I](https://github.com/lyctea/LetCode/blob/master/JavaScript/561.js) |  || ||
 | 728 | [Self Dividing Numbers](https://github.com/lyctea/LetCode/blob/master/JavaScript/728.js) |  || ||
 | 852 | [Peak Index in a Mountain Array](https://github.com/lyctea/LetCode/blob/master/JavaScript/852.js) |  || ||
+| 763 | [Partition Labels](https://github.com/lyctea/LetCode/blob/master/JavaScript/763.js) |  || ||
