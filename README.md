@@ -19,3 +19,4 @@
 | 861 | [Score After Flipping Matrix](https://github.com/lyctea/LetCode/blob/master/JavaScript/861.js) |  || ||
 | 797 | [All Paths From Source to Target](https://github.com/lyctea/LetCode/blob/master/JavaScript/797.js) |  || ||
 | 561 | [Array Partition I](https://github.com/lyctea/LetCode/blob/master/JavaScript/561.js) |  || ||
+| 728 | [Self Dividing Numbers](https://github.com/lyctea/LetCode/blob/master/JavaScript/728.js) |  || ||
