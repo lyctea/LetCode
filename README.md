@@ -23,3 +23,4 @@
 | 852 | [Peak Index in a Mountain Array](https://github.com/lyctea/LetCode/blob/master/JavaScript/852.js) |  || ||
 | 763 | [Partition Labels](https://github.com/lyctea/LetCode/blob/master/JavaScript/763.js) |  || ||
 | 894 | [All Possible Full Binary Trees](https://github.com/lyctea/LetCode/blob/master/JavaScript/894.js) |  || ||
+| 701 | [Insert into a Binary Search Tree](https://github.com/lyctea/LetCode/blob/master/JavaScript/701.js) |  || ||
