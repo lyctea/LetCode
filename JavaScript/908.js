@@ -30,3 +30,6 @@ var smallestRangeI = function (A, K) {
 const t = [1, 3, 5];
 
 console.log(smallestRangeI(t, 3));
+
+
+
