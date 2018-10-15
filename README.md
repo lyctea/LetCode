@@ -28,3 +28,4 @@
 | 537 | [Complex Number Multiplication](https://github.com/lyctea/LetCode/blob/master/JavaScript/537.js) |  || ||
 | 419 | [Battleships in a Board ](https://github.com/lyctea/LetCode/blob/master/JavaScript/419.js) |  || ||
 | 867 | [Transpose Matrix](https://github.com/lyctea/LetCode/blob/master/JavaScript/867.js) |  || ||
+| 908 | [Smallest Range I](https://github.com/lyctea/LetCode/blob/master/JavaScript/908.js) |  || ||
