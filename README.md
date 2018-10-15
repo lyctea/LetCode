@@ -31,4 +31,5 @@
 | 908 | [Smallest Range I](https://github.com/lyctea/LetCode/blob/master/JavaScript/908.js) |  || ||
 | 885 | [Spiral Matrix III](https://github.com/lyctea/LetCode/blob/master/JavaScript/885.js) |  || ||
 | 338 | [Counting Bits](https://github.com/lyctea/LetCode/blob/master/JavaScript/338.js) |  || ||
-| 876 | [Middle of the Linked List ](https://github.com/lyctea/LetCode/blob/master/JavaScript/876.js) |  || ||
+| 876 | [Middle of the Linked List](https://github.com/lyctea/LetCode/blob/master/JavaScript/876.js) |  || ||
+| 700 | [Search in a Binary Search Tree ](https://github.com/lyctea/LetCode/blob/master/JavaScript/700.js) |  || ||
