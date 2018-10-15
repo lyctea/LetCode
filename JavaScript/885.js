@@ -29,3 +29,19 @@ var spiralMatrixIII = function (R, C, r0, c0) {
 };
 
 console.log(spiralMatrixIII(5, 6, 1, 4));
+
+// const a = [
+//   {code: 'ema', id: '111', name: 'EMS'},
+// ];
+//
+// const b = [
+//   {name: '圆通', label: 'yuantong'},
+//   {name: '申通', label: 'shentong'},
+//   {name: 'EMS', label: 'ems'},
+// ];
+//
+// const result = b.map(item => a
+//   .map(x => x.name === item.name ? {...x, ...item} : undefined)[0])
+//   .filter(item => !!item);
+//
+// console.log(result);

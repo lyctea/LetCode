@@ -30,3 +30,4 @@
 | 867 | [Transpose Matrix](https://github.com/lyctea/LetCode/blob/master/JavaScript/867.js) |  || ||
 | 908 | [Smallest Range I](https://github.com/lyctea/LetCode/blob/master/JavaScript/908.js) |  || ||
 | 885 | [Spiral Matrix III](https://github.com/lyctea/LetCode/blob/master/JavaScript/885.js) |  || ||
+| 338 | [Counting Bits](https://github.com/lyctea/LetCode/blob/master/JavaScript/338.js) |  || ||
