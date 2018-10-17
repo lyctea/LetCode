@@ -40,3 +40,4 @@
 | 344 | [Reverse String](https://github.com/lyctea/LetCode/blob/master/JavaScript/344.js) |  || ||
 | 476 | [Number Complement](https://github.com/lyctea/LetCode/blob/master/JavaScript/476.js) |  || ||
 | 559 | [Maximum Depth of N-ary Tree](https://github.com/lyctea/LetCode/blob/master/JavaScript/559.js) |  || ||
+| 881 | [Subdomain Visit Count](https://github.com/lyctea/LetCode/blob/master/JavaScript/881.js) |  || ||
