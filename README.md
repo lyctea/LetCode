@@ -46,3 +46,5 @@
 | 500 | [Keyboard Row](https://github.com/lyctea/LetCode/blob/master/JavaScript/500.js) |  || ||
 | 872 | [Leaf-Similar Trees](https://github.com/lyctea/LetCode/blob/master/JavaScript/872.js) |  || ||
 | 884 | [Uncommon Words from Two Sentences](https://github.com/lyctea/LetCode/blob/master/JavaScript/884.js) |  || ||
+| 791 | [Custom Sort String](https://github.com/lyctea/LetCode/blob/master/JavaScript/791.js) |  || ||
+| 766 | [Toeplitz Matrix](https://github.com/lyctea/LetCode/blob/master/JavaScript/766.js) |  || ||
