@@ -43,3 +43,4 @@
 | 881 | [Subdomain Visit Count](https://github.com/lyctea/LetCode/blob/master/JavaScript/881.js) |  || ||
 | 893 | [Groups of Special-Equivalent Strings](https://github.com/lyctea/LetCode/blob/master/JavaScript/893.js) |  || ||
 | 821 | [Shortest Distance to a Character](https://github.com/lyctea/LetCode/blob/master/JavaScript/821.js) |  || ||
+| 500 | [Keyboard Row](https://github.com/lyctea/LetCode/blob/master/JavaScript/500.js) |  || ||
