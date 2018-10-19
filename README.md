@@ -48,3 +48,4 @@
 | 884 | [Uncommon Words from Two Sentences](https://github.com/lyctea/LetCode/blob/master/JavaScript/884.js) |  || ||
 | 791 | [Custom Sort String](https://github.com/lyctea/LetCode/blob/master/JavaScript/791.js) |  || ||
 | 766 | [Toeplitz Matrix](https://github.com/lyctea/LetCode/blob/master/JavaScript/766.js) |  || ||
+| 868 | [Binary Gap](https://github.com/lyctea/LetCode/blob/master/JavaScript/868.js) |  || ||
