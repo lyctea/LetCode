@@ -52,3 +52,4 @@
 | 682 | [Baseball Game](https://github.com/lyctea/LetCode/blob/master/JavaScript/682.js) |  || ||
 | 463 | [Island Perimeter](https://github.com/lyctea/LetCode/blob/master/JavaScript/463.js) |  || ||
 | 669 | [Trim a Binary Search Tree](https://github.com/lyctea/LetCode/blob/master/JavaScript/669.js) |  || ||
+| 575 | [Distribute Candies](https://github.com/lyctea/LetCode/blob/master/JavaScript/575.js) |  || ||
