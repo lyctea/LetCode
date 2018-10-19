@@ -49,3 +49,4 @@
 | 791 | [Custom Sort String](https://github.com/lyctea/LetCode/blob/master/JavaScript/791.js) |  || ||
 | 766 | [Toeplitz Matrix](https://github.com/lyctea/LetCode/blob/master/JavaScript/766.js) |  || ||
 | 868 | [Binary Gap](https://github.com/lyctea/LetCode/blob/master/JavaScript/868.js) |  || ||
+| 682 | [Baseball Game](https://github.com/lyctea/LetCode/blob/master/JavaScript/682.js) |  || ||
