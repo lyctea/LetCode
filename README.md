@@ -56,3 +56,4 @@
 | 442 | [Find All Duplicates in an Array](https://github.com/lyctea/LetCode/blob/master/JavaScript/442.js) |  || ||
 | 412 | [Fizz Buzz](https://github.com/lyctea/LetCode/blob/master/JavaScript/412.js) |  || ||
 | 566 | [Reshape the Matrix](https://github.com/lyctea/LetCode/blob/master/JavaScript/566.js) |  || ||
+| 877 | [Stone Game](https://github.com/lyctea/LetCode/blob/master/JavaScript/877.js) |  || ||
