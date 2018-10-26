@@ -57,4 +57,6 @@
 | 412 | [Fizz Buzz](https://github.com/lyctea/LetCode/blob/master/JavaScript/412.js) |  || ||
 | 566 | [Reshape the Matrix](https://github.com/lyctea/LetCode/blob/master/JavaScript/566.js) |  || ||
 | 877 | [Stone Game](https://github.com/lyctea/LetCode/blob/master/JavaScript/877.js) |  || ||
-| 897 | [Increasing Order Search Tree](https://github.com/lyctea/LetCode/blob/master/JavaScript/897.js) |  || ||
+| 897 | [Increasing Order Search Tree](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/897.js) |  || ||
+| 841 | [Keys and Rooms](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/841.js) |  || ||
+| 496 | [Next Greater Element I](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/496.js) |  || ||
