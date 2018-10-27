@@ -66,3 +66,4 @@
 | 693 | [Binary Number with Alternating Bits](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/693.js) |  || ||
 | 515 | [Find Largest Value in Each Tree Row](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/515.js) |  || ||
 | 762 | [Prime Number of Set Bits in Binary Representation](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/762.js) |  || ||
+| 540 | [Single Element in a Sorted Array](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/540.js) |  || ||
