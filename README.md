@@ -63,3 +63,4 @@
 | 406 | [Queue Reconstruction by Height](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/406.js) |  || ||
 | 513 | [Find Bottom Left Tree Value](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/513.js) |  || ||
 | 637 | [Average of Levels in Binary Tree](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/637.js) |  || ||
+| 693 | [Binary Number with Alternating Bits](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/693.js) |  || ||
