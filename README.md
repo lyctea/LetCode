@@ -60,3 +60,4 @@
 | 897 | [Increasing Order Search Tree](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/897.js) |  || ||
 | 841 | [Keys and Rooms](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/841.js) |  || ||
 | 496 | [Next Greater Element I](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/496.js) |  || ||
+| 406 | [Queue Reconstruction by Height](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/406.js) |  || ||
