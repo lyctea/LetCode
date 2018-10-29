@@ -72,3 +72,4 @@
 | 521 | [Longest Uncommon Subsequence I](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/521.js) |  || ||
 | 226 | [Invert Binary Tree](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/226.js) |  || ||
 | 292 | [Nim Game](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/292.js) |  || ||
+| 429 | [N-ary Tree Level Order Traversal](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/429.js) |  || ||
