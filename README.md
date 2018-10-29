@@ -73,3 +73,4 @@
 | 226 | [Invert Binary Tree](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/226.js) |  || ||
 | 292 | [Nim Game](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/292.js) |  || ||
 | 429 | [N-ary Tree Level Order Traversal](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/429.js) |  || ||
+| 824 | [Goat Latin](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/824.js) |  || ||
