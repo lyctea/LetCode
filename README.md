@@ -75,3 +75,4 @@
 | 429 | [N-ary Tree Level Order Traversal](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/429.js) |  || ||
 | 824 | [Goat Latin](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/824.js) |  || ||
 | 553 | [Optimal Division](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/553.js) |  || ||
+| 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/889.js) |  || ||
