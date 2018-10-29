@@ -71,3 +71,4 @@
 | 917 | [Reverse Only Letters](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/917.js) |  || ||
 | 521 | [Longest Uncommon Subsequence I](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/521.js) |  || ||
 | 226 | [Invert Binary Tree](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/226.js) |  || ||
+| 292 | [Nim Game](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/292.js) |  || ||
