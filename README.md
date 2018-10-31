@@ -77,3 +77,5 @@
 | 553 | [Optimal Division](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/553.js) |  || ||
 | 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/889.js) |  || ||
 | 260 | [Single Number III](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/260.js) |  || ||
+| 892 | [Surface Area of 3D Shapes](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/892.js) |  || ||
+| 919 | [Complete Binary Tree Inserter](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/919.js) |  || ||
