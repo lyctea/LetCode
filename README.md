@@ -79,3 +79,4 @@
 | 260 | [Single Number III](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/260.js) |  || ||
 | 892 | [Surface Area of 3D Shapes](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/892.js) |  || ||
 | 919 | [Complete Binary Tree Inserter](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/919.js) |  || ||
+| 695 | [Max Area of Island](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/695.js) |  || ||
