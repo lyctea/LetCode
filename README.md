@@ -81,3 +81,4 @@
 | 919 | [Complete Binary Tree Inserter](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/919.js) |  || ||
 | 695 | [Max Area of Island](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/695.js) |  || ||
 | 942 | [DI String Match](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/942.js) |  || ||
+| 921 | [Minimum Add to Make Parentheses Valid](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/921.js) |  || ||
