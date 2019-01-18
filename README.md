@@ -85,3 +85,4 @@
 | 973 | [K Closest Points to Origin](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/973.js) |  || ||
 | 509 | [Fibonacci Number](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/509.js) |  || ||
 | 922 | [Sort Array By Parity II](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/922.js) |  || ||
+| 969 | [Pancake Sorting](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/969.js) |  || ||
