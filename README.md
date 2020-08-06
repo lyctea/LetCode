@@ -89,3 +89,4 @@
 | 976 | [Largest Perimeter Triangle](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/976.js) |  || ||
 | 1 | [Two Sum](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/1.js) |  || ||
 | 2 | [Add Two Numbers](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/2.js) |  || ||
+| 3 | [无重复字符的最长子串](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/3.js) |  || ||
