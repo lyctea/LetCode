@@ -95,3 +95,4 @@
 | 19 | [Remove Nth Node From End of List](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/19.js) |  || ||
 | 20 | [valid-parentheses](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/20.js) |  || ||
 | 21 | [merge-two-sorted-lists](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/21.js) |  || ||
+| 24 | [Swap Nodes in Pairs](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/24.js) |  || ||
