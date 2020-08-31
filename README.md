@@ -91,3 +91,5 @@
 | 2 | [Add Two Numbers](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/2.js) |  || ||
 | 3 | [无重复字符的最长子串](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/3.js) |  || ||
 | 5 | [最长回文字符串](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/5.js) |  || ||
+| 15 | [threeSum](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/15.js) |  || ||
+| 19 | [Remove Nth Node From End of List](https:z//github.com/lyctea/LetCode/blob/master/JavaScript/19.js) |  || ||
